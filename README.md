@@ -1,6 +1,10 @@
-## Hi there 👋
+<p align="center">
+<img width="1256" height="308" alt="Image" src="https://github.com/user-attachments/assets/02e967ad-933f-43c1-9f9b-061bd1bbf6d6" />
+</p>
 
-<!--
+<h1 align="center">Hi 👋, I'm Hansala Enuka Fernando</h1>
+
+<!--## Hi there 👋
 **hansalaenukafernando/hansalaenukafernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
